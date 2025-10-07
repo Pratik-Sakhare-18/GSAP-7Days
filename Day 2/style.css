@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+#box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+nav{
+    background-color: aqua;
+    height: 90px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
