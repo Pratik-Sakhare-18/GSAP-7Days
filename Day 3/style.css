@@ -19,9 +19,7 @@ nav{
 .title{
     font-size: 25px;
     font-weight: bolder;
-    color: green;
-   
-    
+    color: green; 
 }
 
 .links{
@@ -87,19 +85,16 @@ nav{
 .blender{
     height: 100px;
     width: 100px;
-   
 }
 
 .figma{
     height: 100px;
     width: 100px;
-    
 }
 
 .plus{
     height: 100px;
     width: 50px;
-    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -108,14 +103,12 @@ nav{
 
 .blender img{
     height: 100px;
-    width: 100px;
-   
+    width: 100px;  
 }
 
 .figma img{
     height: 100px;
     width: 100px;
-   
 }
 
 .heading{
@@ -128,14 +121,12 @@ nav{
     text-align: center;
     font-size: 0.9em;
     color: black;
-
 }
 
 .main-img-contaoiner{
     height: 350px;
     width: 100%;
-    position: relative;
-    
+    position: relative;  
 }
 
 .img1{
